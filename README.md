@@ -4,3 +4,5 @@ Highly motivated and self-taught in software development and programming princip
 
 - 💬 Ask me about Django and React
 - 📫 How to reach me: niyitegekah@gmail.com
+
+Check out my UI Codepen: https://codepen.io/nythonore
