@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Honore
 
-Highly motivated and self-taught in software development and programming principles. Proficient in #Django #React
+Entrepreneur || Problem Solver || Designer || Full Stack Developer I'm currently working on a startup.
 
 - 💬 Ask me about Django and React
 - 📫 How to reach me: niyitegekah@gmail.com
 
-Check out my UI Codepen: https://codepen.io/nythonore
+Check out my other links: https://linktr.ee/nythonore
