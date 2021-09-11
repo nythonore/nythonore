@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Honore
 
-Entrepreneur || Problem Solver || Designer || Full Stack Developer I'm currently working on a startup.
+Entrepreneur || Problem Solver || Designer || Full Stack Developer.
 
 - 💬 Ask me about Django and React
 - 📫 How to reach me: niyitegekah@gmail.com
