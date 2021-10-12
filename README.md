@@ -5,10 +5,10 @@ Self-taught full stack developer who is able to realize projects from the ground
 Having worked on different projects helped me to adapt to the changes quickly and made me a mature team worker. I am able to work well both in a team environment as well as using my own initiative. I am able to work well under pressure and adhere to strict deadlines.
 
 ### Skills
-- HTML & CSS | Bootstrap
+- HTML & CSS | Bootstrap | Figma
 - Javascript (React JS & React Native)
 - Python (Django & Fast API)
-- Database (Mysql & Postgresql)
+- Database (Mysql & Postgresql & Redis)
 - Devops (Git & Docker & Kubernetes)
 - Github | Vscode
 
