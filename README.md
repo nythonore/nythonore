@@ -4,7 +4,7 @@ Energetic team-player fullstack developer with a demonstrated history developing
 
 ### Skills
 - HTML & SCSS & TypeScript
-- React JS & React Native
+- React JS & NextJS & React Native
 - Python | Django & FastAPI
 - PostgreSQL & MongoDB & Redis
 - Rest API & GraphQL
