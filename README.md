@@ -12,6 +12,8 @@ Energetic team-player fullstack developer with a demonstrated history developing
 - Git & Circle CI
 - Scrum / Agile
 
-📫 How to reach me: niyitegekah@gmail.com
-
-Check out my other links: https://linktr.ee/nythonore
+### 📫 How to reah me:
+<a href="mailto:nythonore@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/></a>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://www.linkedin.com/in/nythonore)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://twitter.com/nythonore)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3%"/>](https://www.instagram.com/nythonore)
