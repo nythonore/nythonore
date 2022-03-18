@@ -1,16 +1,16 @@
 ### Hi there 👋, I am Honore
 
-Energetic team-player software engineer with a demonstrated history developing robust code for businesses. I am well versed in all the key languages and am able to design, code and deploy in an organised and efficient manner. A Javascript & Python lover and thinker.
+Energetic team-player fullstack developer with a demonstrated history developing robust code for businesses. I am well versed in all the key languages and am able to design, code and deploy in an organized and efficient manner.
 
 ### Skills
-- HTML & CSS | Bootstrap | Figma
-- Javascript
-- React JS | Redux
-- Graphql | Apollo
+- HTML & SCSS & TypeScript
+- React JS & React Native
 - Python | Django & FastAPI
-- PostgreSQL & Redis
-- Docker
-- Git | Github
+- PostgreSQL & MongoDB & Redis
+- Rest API & GraphQL
+- Docker & Kuberantes & Linux
+- Git | Circle CI
+- Scrum / Agile
 
 📫 How to reach me: niyitegekah@gmail.com
 
