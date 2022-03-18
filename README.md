@@ -9,7 +9,7 @@ Energetic team-player fullstack developer with a demonstrated history developing
 - PostgreSQL & MongoDB & Redis
 - Rest API & GraphQL
 - Docker & Kuberantes & Linux
-- Git | Circle CI
+- Git & Circle CI
 - Scrum / Agile
 
 📫 How to reach me: niyitegekah@gmail.com
