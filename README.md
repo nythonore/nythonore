@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Honore
 
-Energetic team-player fullstack developer with a demonstrated history developing robust code for businesses. I am well versed in all the key languages and am able to design, code and deploy in an organized and efficient manner.
+Fullstack developer with over three years of experience building high-quality websites, applications, and databases for reputable brands. I am well versed in all the key languages and am able to design, code and deploy in an organized and efficient manner.
 
 ### Skills
 - HTML & SCSS & TypeScript
