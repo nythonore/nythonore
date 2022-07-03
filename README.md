@@ -1,19 +1,7 @@
-### Hi there 👋, I am Honore
+[<img src="https://nythonore.me/cover.png" width="100%"/>](https://nythonore.me)
 
-Fullstack developer with over three years of experience building high-quality websites, applications, and databases for reputable brands. I am well versed in all the key languages and am able to design, code and deploy in an organized and efficient manner.
+### Hi there 👋, my name is Honore. I am a frontend developer located in Rwanda.
 
-### Skills
-- HTML & SCSS & TypeScript
-- React JS & NextJS & React Native
-- Python | Django & FastAPI
-- PostgreSQL & MongoDB & Redis
-- Rest API & GraphQL
-- Docker & Kuberantes & Linux
-- Git & Circle CI
-- Scrum / Agile
+I design and build world-class digital products using HTML, CSS, JavaScript, etc... When dealing with a project I pay attention to the smallest details addressing problems with patience. Web design and development help me to free my creative mind and allow me to satisfy my desire for constant self-growth.
 
-### 📫 How to reah me:
-<a href="mailto:nythonore@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/></a>
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://www.linkedin.com/in/nythonore)
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://twitter.com/nythonore)
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3%"/>](https://www.instagram.com/nythonore)
+![Honore's GitHub stats](https://github-readme-stats.vercel.app/api?username=nythonore&bg_color=0A1930&title_color=CCD6F6&text_color=8892AF&icon_color=8892AF&border_color=0A1930)
