@@ -1,6 +1,6 @@
 [<img src="https://nythonore.me/cover.png" width="100%"/>](https://nythonore.me)
 
-### Hi there 👋, I am Honore, a frontend developer based in Rwanda.
+### Hi there 👋, I am Honore, a fullstack developer based in Rwanda.
 
 Well-qualified full stack developer familiar with a wide range of programming utilities and languages. Knowledgeable of frontend and backend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities offering more than 3 years of related experience.
 
